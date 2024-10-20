@@ -9,25 +9,9 @@
   [![node.js](https://img.shields.io/node/v/c?color=pink)](https://nodejs.org/en/)
   [![npm](https://img.shields.io/npm/v/npm?color=blue&logo=npm)](https://www.npmjs.com/package/inquirer)
 
-  ## Table of Content
-  * [ Project Links ](#Project-Links)
-  * [ Screenshots-Demo ](#Screenshots-Demo)
-  * [ Project Objective ](#Project-Objective)
-  * [ User Story ](#User-Story)
-  * [ Technologies ](#Technologies)
-  * [ Installation ](#Installation)
-  * [ Usage ](#Usage)
-  * [ Credits and Reference ](#Credits-and-Reference)
-  * [ Tests ](#Tests)
-  * [ Author Contact ](#Author-Contact)
-  * [ License ](#License)
-  #
+ 
 
-  ##  Project Links
-
-  ##### Deployed site on heroku: https://glacial-gorge-49813.herokuapp.com/
   
-  ##### Github REPO link:  https://github.com/imbingz/fur-lodge
 
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./public/assets/images/demo1.gif)</kbd>
